@@ -2,6 +2,15 @@
 
 Was auf @dabejo_com funktioniert und was nicht. Wird jede Woche ergänzt, neueste Woche oben.
 
+## Woche 19. bis 25.10.2026 (Stand 25.10.)
+
+- Zahlen: weiterhin praktisch leer. Die drei verbliebenen Posts vom 20.10. stehen in Metricool bei 0 Reichweite, 0 Interaktionen, 0 Speichern, 0 neuen Followern. Kontoreichweite der Woche: 1. Profilaufrufe liefert Metricool für Instagram nicht mehr. Das Konto startet bei null Followern, ohne Verteilung über Follower kommt fast nichts an.
+- Diese Woche wurde nichts gepostet: die KW44-Posts warten noch auf Freigabe. Eine Woche Pause bremst ein neues Konto zusätzlich.
+- Beste Zeiten laut Metricool (Richtwerte, noch keine eigenen Daten): werktags 10 Uhr am stärksten, Freitag und Mittwoch vorn, dann Donnerstag. Zweiter Gipfel 18 Uhr (Di bis Do). Samstag und Sonntag nur etwa halb so stark.
+- Gelernt: Aus Zahlen lässt sich erst etwas lesen, wenn regelmäßig gepostet wird und ein paar Follower da sind. Wichtiger als die Uhrzeit ist gerade, überhaupt im Rhythmus zu bleiben.
+
+**Test KW44 (unverändert):** Mo und Fr 7:30, Mi 10:00. Formate Test, Retro-Vorher/Nachher, Chat. Danach vergleichen: Reichweite und Speichern je Uhrzeit und Format. Nächster Versuch, falls 7:30 schwach bleibt: alle drei auf 10:00.
+
 ## KW43 (14. bis 21.10.2026)
 
 - Zahlen: Metricool zeigt für alle drei Posts vom 20.10. noch 0 bei Reichweite, Interaktionen, Speichern und neuen Followern, auch das Konto selbst hat noch keine Werte. Das Konto ist neu verbunden, die Instagram-Daten kommen offenbar erst mit Verzögerung an. Echte Aussagen erst nächste Woche.

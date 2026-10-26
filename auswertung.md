@@ -9,7 +9,7 @@ Was auf @dabejo_com funktioniert und was nicht. Wird jede Woche ergänzt, neuest
 - Beste Zeiten laut Metricool (Richtwerte, noch keine eigenen Daten): werktags 10 Uhr am stärksten, Freitag und Mittwoch vorn, dann Donnerstag. Zweiter Gipfel 18 Uhr (Di bis Do). Samstag und Sonntag nur etwa halb so stark.
 - Gelernt: Aus Zahlen lässt sich erst etwas lesen, wenn regelmäßig gepostet wird und ein paar Follower da sind. Wichtiger als die Uhrzeit ist gerade, überhaupt im Rhythmus zu bleiben.
 
-**Test KW44 (unverändert):** Mo und Fr 7:30, Mi 10:00. Formate Test, Retro-Vorher/Nachher, Chat. Danach vergleichen: Reichweite und Speichern je Uhrzeit und Format. Nächster Versuch, falls 7:30 schwach bleibt: alle drei auf 10:00.
+**Test KW44:** Mo 10:00 (Freigabe kam erst nach 7:30), Mi 10:00, Fr 7:30. Formate Test, Retro-Vorher/Nachher, Chat. Danach vergleichen: Reichweite und Speichern je Uhrzeit und Format. Nächster Versuch, falls 7:30 schwach bleibt: alle drei auf 10:00.
 
 ## KW43 (14. bis 21.10.2026)
 

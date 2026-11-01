@@ -2,6 +2,16 @@
 
 Was auf @dabejo_com funktioniert und was nicht. Wird jede Woche ergänzt, neueste Woche oben.
 
+## Woche 26.10. bis 01.11.2026 (Stand 01.11.)
+
+- Gepostet: 6 Feed-Posts (Mo bis Sa, je einer), alle von Metricool pünktlich veröffentlicht. Formate: Test, Werkstattzettel (2x), Retro-Vorher/Nachher, Brief, Chat. Zeiten: 10:00, Fr 7:30.
+- Zahlen: für alle 6 Posts weiter 0 bei Reichweite, Interaktionen, Speichern, Teilen und neuen Followern. Follower laut Metricool: 0, Kontoreichweite der Woche: 0. Nur der alte Google-Test vom 20.10. hatte je Werte (1 Reichweite, 2 Aufrufe, 1 Like). Profilaufrufe liefert Metricool für Instagram nicht mehr.
+- Einordnung: Nach zwei Wochen und 10 Posts komplett 0 ist ungewöhnlich, auch für ein neues Konto. Entweder kommen die Instagram-Statistiken nicht bei Metricool an, oder das Konto wird kaum ausgespielt. Kurz in der Instagram-App nachsehen (Insights eines Posts, Konto öffentlich und als Business-/Creator-Konto?), dann wissen wir, ob die 0 echt ist.
+- Uhrzeit oder Format lassen sich bei 0 nicht vergleichen. Beste Zeiten laut Metricool unverändert: werktags 10 Uhr vorn (Fr, Mi, Do am stärksten), zweiter Gipfel 18 Uhr (Di bis Do), Wochenende schwach.
+- Gelernt: Ohne Follower bringt auch ein täglicher Rhythmus nichts. Zurück auf 3 Posts pro Woche, Kraft lieber in Inhalte stecken, die geteilt werden (Tests zum Selbermachen, Retro).
+
+**Test KW45:** alle drei Posts um 10:00 (Mo Test, Mi Retro, Fr Chat), damit nur das Format variiert. Prüfen, ob in der Instagram-App andere Zahlen stehen als in Metricool.
+
 ## Woche 19. bis 25.10.2026 (Stand 25.10.)
 
 - Zahlen: weiterhin praktisch leer. Die drei verbliebenen Posts vom 20.10. stehen in Metricool bei 0 Reichweite, 0 Interaktionen, 0 Speichern, 0 neuen Followern. Kontoreichweite der Woche: 1. Profilaufrufe liefert Metricool für Instagram nicht mehr. Das Konto startet bei null Followern, ohne Verteilung über Follower kommt fast nichts an.

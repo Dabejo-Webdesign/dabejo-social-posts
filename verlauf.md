@@ -1,6 +1,6 @@
 # Verlauf
 
-Was wann auf @dabejo_com geplant oder gepostet wurde. Seit November 2026 wird einmal im Monat (zum 1.) für den ganzen Monat geplant. Board = Datei auf der Leinwand „Dabejo Social Posts“.
+Was wann auf @dabejo_com geplant oder gepostet wurde. Seit November 2026 wird einmal im Monat (zum 1.) für den ganzen Monat geplant. Metricool kostenlos: 20 geplante Posts pro Monat, die werden voll genutzt. Board = Datei auf der Leinwand „Dabejo Social Posts“.
 
 | Datum | Uhrzeit | Board | Datei | Format | Status |
 |---|---|---|---|---|---|
@@ -16,17 +16,24 @@ Was wann auf @dabejo_com geplant oder gepostet wurde. Seit November 2026 wird ei
 | 31.10.2026 | 10:00 | ZettelSamstag.dc.html | 2026-KW44/2026-10-31-f-zettel-samstag.jpg | Werkstattzettel | veröffentlicht |
 | 03.11.2026 | 10:00 | Handy.dc.html | 2026-KW45/2026-11-03-a-handy-test.jpg | Test (Zollstock) | eingeplant |
 | 04.11.2026 | 10:00 | RetroPhysio.dc.html | 2026-KW45/2026-11-04-b-retro-physio.jpg | Retro Vorher/Nachher | eingeplant |
+| 05.11.2026 | 10:00 | Ortsschild.dc.html | 2026-KW45/2026-11-05-d-ortsschild.jpg | Region (Ortsschild) | eingeplant |
 | 06.11.2026 | 10:00 | ChatSprachnachricht.dc.html | 2026-KW45/2026-11-06-c-chat-sprachnachricht.jpg | Chat | eingeplant |
 | 09.11.2026 | 10:00 | ZettelAdvent.dc.html | 2026-KW46/2026-11-09-a-zettel-advent.jpg | Werkstattzettel | eingeplant |
+| 10.11.2026 | 18:00 | Ticket.dc.html | 2026-KW46/2026-11-10-d-ticket.jpg | Leistung (Zollstock) | eingeplant |
 | 11.11.2026 | 10:00 | RetroGetraenke.dc.html | 2026-KW46/2026-11-11-b-retro-getraenke.jpg | Retro Vorher/Nachher | eingeplant |
+| 12.11.2026 | 10:00 | VorherCafe.dc.html | 2026-KW46/2026-11-12-e-vorher-cafe.jpg | Vorher/Nachher (Handy) | eingeplant |
 | 13.11.2026 | 10:00 | Tuer.dc.html | 2026-KW46/2026-11-13-c-tuerschild-test.jpg | Test (Zollstock) | eingeplant |
 | 16.11.2026 | 10:00 | ChatSperrbild.dc.html | 2026-KW47/2026-11-16-a-chat-sperrbild.jpg | Chat (Sperrbildschirm) | eingeplant |
+| 17.11.2026 | 18:00 | ZettelFormular.dc.html | 2026-KW47/2026-11-17-d-zettel-formular.jpg | Werkstattzettel | eingeplant |
 | 18.11.2026 | 10:00 | RetroFahrschule.dc.html | 2026-KW47/2026-11-18-b-retro-fahrschule.jpg | Retro Vorher/Nachher | eingeplant |
+| 19.11.2026 | 10:00 | Liste.dc.html | 2026-KW47/2026-11-19-e-liste.jpg | Leistung (Zollstock) | eingeplant |
 | 20.11.2026 | 10:00 | KreideFrisch.dc.html | 2026-KW47/2026-11-20-c-kreide-frisch.jpg | Kreidetafel | eingeplant |
 | 23.11.2026 | 10:00 | BriefKundschaft.dc.html | 2026-KW48/2026-11-23-a-brief-kundschaft.jpg | Brief | eingeplant |
+| 24.11.2026 | 18:00 | Spam.dc.html | 2026-KW48/2026-11-24-d-spam.jpg | Geschichte (Zollstock) | eingeplant |
 | 25.11.2026 | 10:00 | RetroNagel.dc.html | 2026-KW48/2026-11-25-b-retro-nagel.jpg | Retro Vorher/Nachher (Handy) | eingeplant |
+| 26.11.2026 | 10:00 | KreideEmpfehlung.dc.html | 2026-KW48/2026-11-26-e-kreide-empfehlung.jpg | Kreidetafel | eingeplant |
 | 27.11.2026 | 10:00 | Uhr.dc.html | 2026-KW48/2026-11-27-c-48-stunden.jpg | Leistung (Zollstock) | eingeplant |
-| 30.11.2026 | 10:00 | Speisekarte.dc.html | 2026-KW49/2026-11-30-a-speisekarte-test.jpg | Test (Zollstock) | eingeplant |
+| 30.11.2026 | 10:00 | Anruf.dc.html | 2026-KW49/2026-11-30-a-anruf-test.jpg | Test (Zollstock) | eingeplant |
 
 ## Nicht verwenden
 

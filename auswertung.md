@@ -10,7 +10,7 @@ Was auf @dabejo_com funktioniert und was nicht. Wird jede Woche ergänzt, neuest
 - Uhrzeit oder Format lassen sich bei 0 nicht vergleichen. Beste Zeiten laut Metricool unverändert: werktags 10 Uhr vorn (Fr, Mi, Do am stärksten), zweiter Gipfel 18 Uhr (Di bis Do), Wochenende schwach.
 - Gelernt: Ohne Follower bringt auch ein täglicher Rhythmus nichts. Zurück auf 3 Posts pro Woche, Kraft lieber in Inhalte stecken, die geteilt werden (Tests zum Selbermachen, Retro).
 
-**Test November:** ab jetzt Monatsplanung. Alle 13 Posts Mo, Mi, Fr um 10:00 (der Handy-Test von Mo auf Di 3.11. verschoben), damit nur das Format variiert. Vier Retro-Posts, dazu Tests, Chats, Zettel, Kreide, Brief. Prüfen, ob in der Instagram-App andere Zahlen stehen als in Metricool.
+**Test November:** ab jetzt Monatsplanung mit 20 Posts (Limit im kostenlosen Metricool-Tarif), also fast jeden Werktag einer. Mo, Mi, Do, Fr um 10:00, dienstags um 18:00, damit wir 10 gegen 18 Uhr vergleichen können. Prüfen, ob mehr Posts mehr Reichweite bringen. Prüfen, ob in der Instagram-App andere Zahlen stehen als in Metricool.
 
 ## Woche 19. bis 25.10.2026 (Stand 25.10.)
 

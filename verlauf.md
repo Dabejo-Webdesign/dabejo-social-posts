@@ -1,6 +1,8 @@
 # Verlauf
 
-Was wann auf @dabejo_com geplant oder gepostet wurde. Seit November 2026 wird einmal im Monat (zum 1.) für den ganzen Monat geplant. Metricool kostenlos: 20 geplante Posts pro Monat, die werden voll genutzt. Board = Datei auf der Leinwand „Dabejo Social Posts“.
+Was wann auf @dabejo_com geplant oder gepostet wurde. Seit November 2026 wird einmal im Monat (zum 1.) für den ganzen Monat geplant. Metricool kostenlos: 20 geplante Posts pro Monat, die werden voll genutzt. Alle Posts tragen in Instagram die KI-Kennzeichnung („Mit KI erstellt“).
+
+Nicht verwendet: Board ZettelNummer erwähnt Google; Schloss, Impressum, Weg und ChatMail zeigen die Domain brinkmann-fliesen.de. Board = Datei auf der Leinwand „Dabejo Social Posts“.
 
 | Datum | Uhrzeit | Board | Datei | Format | Status |
 |---|---|---|---|---|---|
@@ -17,15 +19,15 @@ Was wann auf @dabejo_com geplant oder gepostet wurde. Seit November 2026 wird ei
 | 03.11.2026 | 10:00 | Handy.dc.html | 2026-KW45/2026-11-03-a-handy-test.jpg | Test (Zollstock) | eingeplant |
 | 04.11.2026 | 10:00 | RetroPhysio.dc.html | 2026-KW45/2026-11-04-b-retro-physio.jpg | Retro Vorher/Nachher | eingeplant |
 | 05.11.2026 | 10:00 | Ortsschild.dc.html | 2026-KW45/2026-11-05-d-ortsschild.jpg | Region (Ortsschild) | eingeplant |
-| 06.11.2026 | 10:00 | ChatSprachnachricht.dc.html | 2026-KW45/2026-11-06-c-chat-sprachnachricht.jpg | Chat | eingeplant |
+| 06.11.2026 | 10:00 | ReelSprachnachricht.dc.html | 2026-KW45/2026-11-06-c-reel-sprachnachricht.mp4 | Reel (Chat animiert) | eingeplant |
 | 09.11.2026 | 10:00 | ZettelAdvent.dc.html | 2026-KW46/2026-11-09-a-zettel-advent.jpg | Werkstattzettel | eingeplant |
 | 10.11.2026 | 18:00 | Ticket.dc.html | 2026-KW46/2026-11-10-d-ticket.jpg | Leistung (Zollstock) | eingeplant |
-| 11.11.2026 | 10:00 | RetroGetraenke.dc.html | 2026-KW46/2026-11-11-b-retro-getraenke.jpg | Retro Vorher/Nachher | eingeplant |
+| 11.11.2026 | 10:00 | ReelGetraenke.dc.html | 2026-KW46/2026-11-11-b-reel-getraenke.mp4 | Reel (Retro Vorher/Nachher) | eingeplant |
 | 12.11.2026 | 10:00 | VorherCafe.dc.html | 2026-KW46/2026-11-12-e-vorher-cafe.jpg | Vorher/Nachher (Handy) | eingeplant |
 | 13.11.2026 | 10:00 | Tuer.dc.html | 2026-KW46/2026-11-13-c-tuerschild-test.jpg | Test (Zollstock) | eingeplant |
-| 16.11.2026 | 10:00 | ChatSperrbild.dc.html | 2026-KW47/2026-11-16-a-chat-sperrbild.jpg | Chat (Sperrbildschirm) | eingeplant |
+| 16.11.2026 | 10:00 | ReelSperrbild.dc.html | 2026-KW47/2026-11-16-a-reel-sperrbild.mp4 | Reel (Sperrbildschirm) | eingeplant |
 | 17.11.2026 | 18:00 | ZettelFormular.dc.html | 2026-KW47/2026-11-17-d-zettel-formular.jpg | Werkstattzettel | eingeplant |
-| 18.11.2026 | 10:00 | RetroFahrschule.dc.html | 2026-KW47/2026-11-18-b-retro-fahrschule.jpg | Retro Vorher/Nachher | eingeplant |
+| 18.11.2026 | 10:00 | ReelFahrschule.dc.html | 2026-KW47/2026-11-18-b-reel-fahrschule.mp4 | Reel (Retro Vorher/Nachher) | eingeplant |
 | 19.11.2026 | 10:00 | Liste.dc.html | 2026-KW47/2026-11-19-e-liste.jpg | Leistung (Zollstock) | eingeplant |
 | 20.11.2026 | 10:00 | KreideFrisch.dc.html | 2026-KW47/2026-11-20-c-kreide-frisch.jpg | Kreidetafel | eingeplant |
 | 23.11.2026 | 10:00 | BriefKundschaft.dc.html | 2026-KW48/2026-11-23-a-brief-kundschaft.jpg | Brief | eingeplant |
